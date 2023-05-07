@@ -1,5 +1,5 @@
 
-// 判断当前数据类型是不是对象类型 包括函数, 不包括null
+// 判断当前数据类型是不是对象类型包括函数, 不包括null
 export default function isObject(value) {
   const type = typeof value
 

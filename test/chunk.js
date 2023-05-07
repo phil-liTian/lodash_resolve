@@ -1,3 +1,3 @@
 import chunk from "../src/chunk.js";
 
-chunk()
+console.log('chunk([1, 2, 3, 4, 5], 2)', chunk([1, 2, 3, 4, 5], 2));
